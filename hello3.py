@@ -3,3 +3,4 @@ s = input("입력")
 while True:
     pass
 print("hotfix")
+s = input("입력")
