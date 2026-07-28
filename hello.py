@@ -7,3 +7,7 @@ print("hello4")
 print("hello4")
 print("hello4")
 
+print("안녕하세요")
+print("hello")
+print("hello2")
+print("hello3")
