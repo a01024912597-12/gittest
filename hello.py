@@ -3,10 +3,3 @@ print("hello")
 print("hello2")
 print("hello3")
 print("감사합니다")
-
-print("hello4")
-print("hello4")
-
-print("hello4")
-print("hello4")
-
